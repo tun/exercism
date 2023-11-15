@@ -4,6 +4,7 @@ This repository contains [my progress](https://exercism.io/profiles/tun) on solv
 
 ### In progress
 - [Elixir](http://exercism.io/languages/elixir)
+- [Python](http://exercism.io/languages/python)
 
 ### Completed
 
